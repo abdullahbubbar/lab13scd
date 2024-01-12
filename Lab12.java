@@ -14,6 +14,7 @@ public class Lab12 {
 		Scanner input = new Scanner(System.in);
 		int[] array = getArray();
 		System.out.print("Enter the index of the array: ");
+		System.out.print("Enter the index of the array: ");
 		try {
 			System.out.println("The corresponding element value is " + array[input.nextInt()]);
 			}
